@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">IntermediateSm1</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat Belajar di Dicoding.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="upload">Upload</string>
+    <string name="description">Description</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="page_description">Share your own stories and explore stories from others in this app. Enjoy a platform where creativity meets community through storytelling.</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="login_description">Please sign in with your account credentials to access our application and explore stories shared by others!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="signup_description">Enter your personal information and sign up to access our app. Share your own stories and explore stories from others!</string>
+    <string name="Name">Name</string>
+    <string name="logout">logout</string>
+    <string name="created_on">Created on %s</string>
+    <string name="story_by">Story by: %s</string>
+    <string name="lorem">Lorem Ipsum</string>
+    <string name="description_title">Description:</string>
+    <string name="retry">Try Again</string>
+    <string name="map">Map</string>
+    <string name="include_location">Click if you want to share your location</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
